@@ -1,0 +1,97 @@
+@import url("https://static.zeoseven.com/cn/95/main/result.css");
+@import url("https://static.zeoseven.com/cn/69/main/result.css");
+@import url("https://static.zeoseven.com/cn/201/main/result.css");
+@import url("https://static.zeoseven.com/cn/240/main/result.css");
+@import url("https://static.zeoseven.com/cn/59/main/result.css");
+@import url("https://static.zeoseven.com/cn/135/main/result.css");
+@import url('https://static.zeoseven.com/cn/276/main/result.css');
+@import url('https://static.zeoseven.com/cn/48/main/result.css');
+.LXGW-WenKai {
+  font-family: "LXGW WenKai GB", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  code {
+    font-family: "LXGW WenKai GB", "Microsoft YaHei", "SimHei", "Arial",
+      "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  }
+}
+.JiangChengYuanTi {
+  font-family: "JiangChengYuanTi", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  code {
+    font-family: "JiangChengYuanTi", "Microsoft YaHei", "SimHei", "Arial",
+      "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  }
+}
+.XiangcuiChaoxisongW15 {
+  font-family: "XiangcuiChaoxisongW15", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  code {
+    font-family: "XiangcuiChaoxisongW15", "Microsoft YaHei", "SimHei", "Arial",
+      "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  }
+}
+.Mengshen-Regular {
+  font-family: "Mengshen-Regular", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  code {
+    font-family: "Mengshen-Regular", "Microsoft YaHei", "SimHei", "Arial",
+      "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  }
+}
+.SourceHanSerifVF{
+  font-family: "Source Han Serif VF", "Microsoft YaHei", "SimHei", "Arial",
+  "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+code {
+  font-family: "Source Han Serif VF", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+}
+}
+.NotoSansCJKSC {
+  font-family: "Noto Sans CJK SC", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  code {
+    font-family: "Noto Sans CJK SC", "Microsoft YaHei", "SimHei", "Arial",
+      "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  }
+}
+.JudouSans {
+  font-family: "Judou Sans UI Hans", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  code {
+    font-family: "Judou Sans UI Hans", "Microsoft YaHei", "SimHei", "Arial",
+      "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  }
+}
+.MoonStarsKaiT {
+  font-family: "Moon Stars Kai T", "Microsoft YaHei", "SimHei", "Arial",
+    "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  code {
+    font-family: "Moon Stars Kai T", "Microsoft YaHei", "SimHei", "Arial",
+      "Helvetica", "PingFang SC", "Noto Sans", sans-serif !important;
+  }
+}
+.System-Font {
+  font-family: Inter, -apple-system, BlinkMacSystemFont, PingFang SC,
+    Hiragino Sans GB, noto sans, Microsoft YaHei, Helvetica Neue, Helvetica,
+    Arial, sans-serif !important;
+
+  code {
+    font-family: Inter, -apple-system, BlinkMacSystemFont, PingFang SC,
+      Hiragino Sans GB, noto sans, Microsoft YaHei, Helvetica Neue, Helvetica,
+      Arial, sans-serif !important;
+  }
+}
+.System-Fonts {
+  font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei" !important;
+  code {
+    font-family: "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei" !important;
+  }
+}
+
+.h-screen {
+  height: calc(100vh - env(safe-area-inset-top)) !important;
+}
+
+body {
+  padding-top: env(safe-area-inset-top) !important;
+}

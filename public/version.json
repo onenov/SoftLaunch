@@ -1,0 +1,50 @@
+{
+    "NAME": "潮汐AiQus",
+    "INTRODUCTION": "懂你所言，答你所问，创你所需，解你所难，为你所用",
+    "DESCRIPTION": "更好的AI和增强的答案",
+
+    "APPLOGO": "https://io.onenov.cn/file/202410202340082.png",
+    "WEBSITE": "https://orence.cn",
+
+    "MAC_VERSION": "2.0.1",
+    "MACX64_CLIENT": "https://share.orence.net/8292139",
+    "MACARM_CLIENT": "https://share.orence.net/8292138",
+    "MAC_SIZE": "122MB",
+    "MAC_DATE": "2024-10-21",
+    "MAC_SCREENSHOTS": [
+        "https://io.onenov.cn/file/202410170105149.png",
+        "https://io.onenov.cn/file/202410210302467.png",
+        "https://io.onenov.cn/file/202410210303856.png",
+        "https://io.onenov.cn/file/202410210304587.png"
+    ],
+
+    "WIN_VERSION": "2.0.1",
+    "WIN_CLIENT": "https://share.orence.net/8292322",
+    "WIN_SIZE": "83MB",
+    "WIN_DATE": "2024-10-21",
+    "WIN_SCREENSHOTS": [
+        "https://io.onenov.cn/file/202410170105149.png",
+        "https://io.onenov.cn/file/202410210302467.png",
+        "https://io.onenov.cn/file/202410210303856.png",
+        "https://io.onenov.cn/file/202410210304587.png"
+    ],
+
+    "ANDROID_VERSION": "1.0.1",
+    "ANDROID_CLIENT": "https://share.orence.net/8310126",
+    "ANDROID_SIZE": "24MB",
+    "ANDROID_DATE": "2024-10-21",
+    "ANDROID_SCREENSHOTS": [
+        "https://io.onenov.cn/file/202410210017459.png",
+        "https://io.onenov.cn/file/202410210017285.png",
+        "https://io.onenov.cn/file/202410210017456.png",
+        "https://io.onenov.cn/file/202410210018484.png",
+        "https://io.onenov.cn/file/202410210018168.png"
+    ],
+
+    "IOS_VERSION": "",
+    "IOS_CLIENT": "",
+    "IOS_SIZE": "",
+    "IOS_DATE": "",
+    "IOS_SCREENSHOTS": [
+    ]
+}
